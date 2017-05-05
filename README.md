@@ -1,0 +1,2 @@
+# StrutsBaseStudy
+Struts2学习程序，这里面是各种例子的集合
